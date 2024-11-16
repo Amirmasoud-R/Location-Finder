@@ -1,2 +1,2 @@
 # Location Finder
-Written in Javascript
+Written in Javascript, HTML and CSS
